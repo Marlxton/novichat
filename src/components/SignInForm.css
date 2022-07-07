@@ -1,6 +1,7 @@
 .sign-in-form {
   position: relative;
   border: 1px solid var(--color-primary-light-1);
+  border-radius: 10px;
   padding: 48px;
 }
 .sign-in-form__field + .sign-in-form__field {
