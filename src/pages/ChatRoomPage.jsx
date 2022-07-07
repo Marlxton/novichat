@@ -39,7 +39,7 @@ export function ChatRoomPage(props) {
     <div className="chat-room-page">
       <div className="chat-room-page__settings">
         <div className="chat-room-page__settings-row">
-          <User src="/avatar.svg" username={props.user.username} />
+          <User src="/image.jpg" username={props.user.username} />
         </div>
         <div className="chat-room-page__settings-row">
           <Button type="button" onClick={props.onSignOut}>Sign out</Button>
