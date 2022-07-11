@@ -8,7 +8,8 @@
 }
 .chat-room-page__settings {
   flex: 0 0 240px;
-  background-color: var(--color-primary-light-2);
+  background: linear-gradient(95deg, rgb(37, 172, 196) 0%, rgb(35, 117, 83) 100%);
+  
   text-align: center;
   padding: 16px 0;
 }

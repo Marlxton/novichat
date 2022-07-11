@@ -3,7 +3,7 @@
 }
 .input {
   min-height: 32px;
-  border: 1px solid var(--color-primary);
+  border: 2px solid red;
   border-radius: 10px;
   padding: 0 8px;
   width: 100%;

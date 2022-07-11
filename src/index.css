@@ -17,4 +17,5 @@ html {
 body {
   font-size: 2rem;
   color: var(--color-text);
+  background: linear-gradient(95deg, rgb(34, 195, 133) 0%, rgb(236, 192, 95) 100%);
 }
